@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[myk:home|Door43 (myk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-myk|d43-myk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-myk/archive/master.zip|d43-myk.zip]]
+
+**Recent Changes**
+{{changes>ns = myk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/myk|Ethnologue data]]
+
